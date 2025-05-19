@@ -1,8 +1,5 @@
 package com.pack.employee.exception.handler;
 
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
-
-
 public class ErrorDetails {
 
     private String message;

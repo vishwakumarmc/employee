@@ -1,9 +1,7 @@
 package com.pack.employee.service;
 
 import com.pack.employee.entity.EmployeeEntity;
-import com.pack.employee.exception.ResourceNotFoundException;
 import com.pack.employee.repository.EmployeeRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
